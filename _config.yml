@@ -35,7 +35,7 @@ repo_theme_dark: dark # https://github.com/stats-organization/github-stats-exten
 # `user@host` and no `mailto:` for harvesters to scrape, and clicking one copies
 # it to the clipboard instead of opening a mail client.
 # See "Protecting email addresses from scrapers" in docs/CUSTOMIZE.md.
-protect_email: false
+protect_email: true
 
 # Off by default: the free public github-profile-trophy instance is disabled
 # (its Vercel deployment answers HTTP 402 / DEPLOYMENT_DISABLED), so every trophy
@@ -95,7 +95,7 @@ al_folio:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
@@ -135,8 +135,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: The (Para)Social Circle # blog_name will be displayed in your blog page
+blog_description: Keep up with me and my shenanigans
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
