@@ -6,9 +6,9 @@ title: Jarrett Sech # the website title (if blank, full name will be used instea
 first_name: Jarrett 
 last_name: Sech
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  If you would like to get in contact with me feel free to email me using the icon above or leave a voicemail using my listed phone number. If you would like a further look into my professional connections check out my LinkedIn.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  A simple website for those interested in what I'm up to!
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
