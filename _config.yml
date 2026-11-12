@@ -2,9 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Jarrett Sech # the website title (if blank, full name will be used instead)
-first_name: Jarrett
-middle_name: M.
+title: # the website title (if blank, full name will be used instead)
+first_name: Jarrett 
 last_name: Sech
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
