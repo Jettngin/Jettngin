@@ -18,8 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Howdy! My name is Jarrett Sech and I am a recent Mechanical Engineering graduate from Texas A&M University with a passion for fabrication and design. My love for learning has helped me to develop a diverse and unique skill set, including proficiency in CAD software, knowledge of manufacturing and machining processes, and even 3D animation experience.
+Howdy, welcome to my website! 
 
-My goal is to combine my artistic and fabrication skills with my engineering education to become a valuable member of a design and fabrication team. With my diverse skill set I can provide unique perspectives on complex, multi-disciplinary problems to help find clever solutions.
+In an attempt to create more genuine connections and separate myself from the mental poison that seems to go hand in hand with social media I've decided to consolidate my online presence here! 
 
-I’m excited to connect with like-minded professionals and explore opportunities in custom manufacturing, creative fabrication, and design. If you would like to check out my professional experiences or see examples of my work feel free to check out the 'CV' or 'Project' tabs on my website!
+Here you will find everything from my old Instagram posts (under the Instagram-archives tag), to my (new) blog, to my professional resume. See what projects I've been working on in the Projects tab or check out my Blog for Instagram style updates about my life. 
+
+I'm excited to continue developing this space with updates about my latest shenanigans!
