@@ -137,7 +137,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: The (Para)Social Circle # blog_name will be displayed in your blog page
 blog_description: Keep up with me and my shenanigans
-permalink: /blog/:year/:title/
+permalink: /(Para)SocialCircle/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
@@ -328,7 +328,7 @@ jekyll-archives:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["travel"] # these tags will be displayed on the front page of your blog
-display_categories: ["instagram-archives"] # these categories will be displayed on the front page of your blog
+display_categories: ["instagram-archives","crosscountry"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
